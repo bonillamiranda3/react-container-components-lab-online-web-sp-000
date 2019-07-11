@@ -41,3 +41,4 @@ class SearchableMovieReviewsContainer extends Component {
       );
     }
 }
+export default SearchableMovieReviewsContainer;
